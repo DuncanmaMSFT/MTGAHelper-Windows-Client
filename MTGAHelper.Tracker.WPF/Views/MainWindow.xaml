@@ -164,6 +164,7 @@
             x:Name="NotifyIcon"
             Grid.Row="0"
             IconSource="/Assets/Images/icon.ico"
+            ToolTipText="MTGAHelper"
             LeftClickCommand="{Binding RestoreWindowCommand}">
             <!--  Tooltip  -->
             <tb:TaskbarIcon.TrayToolTip>
