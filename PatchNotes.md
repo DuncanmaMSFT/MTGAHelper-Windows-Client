@@ -1,3 +1,14 @@
+### v1.9.1 (2021-12-11)
+
+
+**IMPORTANT**: The program now requires .NET 6: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.0-windows-x64-installer
+
+### v1.9.0 (2021-12-10)
+
+Support for Alchemy: Innistrad
+
+The program now requires .NET 6
+
 ### v1.8.5 (2021-11-11)
 
 Support for Innistrad: Crimson Vow
